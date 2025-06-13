@@ -1,4 +1,3 @@
-Copy# Importing necessary libraries
 import finnhub
 import requests
 from newsapi import NewsApiClient
