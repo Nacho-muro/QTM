@@ -6,8 +6,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Setting up API keys and clients
-finnhub_client = finnhub.Client(api_key="your_finnhub_api_key_here")
-newsapi = NewsApiClient(api_key="your_newsapi_key_here")
+finnhub_client = finnhub.Client(api_key="d163tb9r01qhvkj61lr0d163tb9r01qhvkj61lrg")
+newsapi = NewsApiClient(api_key="a9fe25c3e9364dd18f82349010fb28f7")
 sentiment_analyzer = SentimentAnalyzer()
 
 # Input company ticker
