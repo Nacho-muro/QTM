@@ -1,0 +1,11 @@
+streamlit
+yfinance
+qiskit
+qiskit-ibm-runtime
+numpy
+matplotlib
+pysentimiento
+pandas
+requests
+zipfile36
+fredapi
